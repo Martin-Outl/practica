@@ -61,3 +61,115 @@
 
 
 /* Aqui finaliza la seccion 1 */
+
+/*################################################################*/
+
+/* Aqui inicia la seccion 2 */
+
+.section-2 {
+    width: 100%;
+    /*height:  calc(100vh - 20em);*/
+    height: 80%;
+    background: greenyellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; 
+    padding: 1em;
+}
+
+.div-img img{
+    object-fit: cover;
+    width: 100% ;
+
+}
+
+.div-texto {
+    background-color: blueviolet;
+    width: 100%;
+    height: 50%;
+}
+
+.s-2-texto {
+
+    width: 80%;
+    height: 25%;
+
+
+}
+
+.s2-img{
+    background: orange;
+    width: 80%;
+    height: 75%;
+
+}
+
+.s-2-texto hr{
+    width: 10%;
+    height: 0.25em;
+    background: linear-gradient(90deg,rgba(192, 12, 93, 0.933),#ff50ff);
+    border: none;
+    border-radius: 1em;
+    margin: 1em auto;
+}
+
+.s-2-texto p{
+    font-size: 1.2em;
+}
+
+.titulo{
+    font-size: 2em;
+    text-align: center;
+    color: #00020f;
+    
+}
+
+.contenido-img {
+    width: 33.33%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 5px ;
+}
+
+.div-img { 
+    background: #ff50ff;
+    width: 100%;
+    height: 50%;
+}
+
+.div-img {
+    background: rgb(233, 250, 3);
+    width: 100%;
+    height: 50%;
+}
+/* Aqui finaliza la seccion 2 */
+
+/*################################################################*/
+
+/* Aqui inicia la seccion 3 */
+
+.section-3 {
+    width: 100%;
+    height: 10em;
+    background: red;
+    
+
+}
+.s3-logo img{
+    width: 1em;
+    height: 1em;
+}
+
+
+
+
+
+
+
+
+
+/* Aqui finaliza la seccion 3 */
